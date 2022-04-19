@@ -1,4 +1,4 @@
-> ✨ Help support the maintenance of this package by [sponsoring me](https://github.com/sponsors/ryangjchandler).
+> This package has been **archived and deprecated** in favour of Alpine's [first-party masking plugin](https://alpinejs.dev/plugins/mask).
 
 # Alpine Mask
 
