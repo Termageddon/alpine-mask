@@ -1,5 +1,3 @@
-> This package has been **archived and deprecated** in favour of Alpine's [first-party masking plugin](https://alpinejs.dev/plugins/mask).
-
 # Alpine Mask
 
 This packages provide a custom `x-mask` directive and `$mask` magic variable, powered by [Cleave.js](https://nosir.github.io/cleave.js/).
